@@ -80,6 +80,10 @@ ul#minitabs a:hover {
 	margin-right: auto;
 }
 
+.gimage {
+	color: #FFF;background-color:#fff;text-decoration:none;
+	}
+
 body {
 	color: #222222;
 	background-color: #fafafa;
