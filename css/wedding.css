@@ -15,9 +15,9 @@ h4 {
 	}
 
 
-body {
+/*body {
 	padding: 0 20 0 20;
-	}
+	}*/
 
 a:link {
 	color: #0063DC;text-decoration:none;
@@ -71,4 +71,46 @@ ul#minitabs a:hover {
 	margin-top: 20px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+
+body {
+	color: #222222;
+	background-color: #fafafa;
+	font-family: Helvetica, Georgia, "Times New Roman", Times, serif;
+	margin-top: auto;
+	margin-right: 8em;
+	margin-bottom: auto;
+	margin-left: 8em;
+	padding-top: 0pt;
+	padding-right: 0pt;
+	padding-bottom: 0pt;
+	padding-left: 0pt;
+}
+
+#content
+{
+	background-color: #ffffff;
+	padding-top: 1em;
+	padding-right: 2em;
+	padding-bottom: 1em;
+	padding-left: 2em;
+	margin-top: auto;
+	margin-right: 2em;
+	margin-bottom: auto;
+	margin-left: 2em;
+	border-right-width:thin;
+	border-left-width:thin;
+	border-right-color: #cccccc;
+	border-left-color: #cccccc;
+	border-style: solid;
+	border-top-width: medium;
+	border-top-style: none;
+	border-bottom-width: medium;
+	border-bottom-style: none;
+}
+
+.line { 
+	margin-bottom:1em; 
+	border-bottom:3px solid #cccccc; 
 }
