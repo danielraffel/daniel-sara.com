@@ -7,14 +7,22 @@
 
 <center>
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"  src="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=8940+Jones+mill+rd+chevy+chase&amp;sll=37.0625,-95.677068&amp;sspn=38.944835,77.695313&amp;ie=UTF8&amp;om=0&amp;t=p&amp;g=8940+Jones+mill+rd+chevy+chase&amp;ll=39.013248,-77.063084&amp;spn=0.039681,0.090981&amp;z=14&amp;iwloc=addr&amp;output=embed&amp;s=AARTsJpAsNNfrdCLkLQ8cmulsvNwhSWVPg"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=8940+Jones+mill+rd+chevy+chase&amp;sll=37.0625,-95.677068&amp;sspn=38.944835,77.695313&amp;ie=UTF8&amp;om=0&amp;t=p&amp;g=8940+Jones+mill+rd+chevy+chase&amp;ll=39.013248,-77.063084&amp;spn=0.039681,0.090981&amp;z=14&amp;iwloc=addr&amp;source=embed" rel="external" style="font-family: Helvetica, Georgia, "Times New Roman", Times, serif">View Larger Map</a></small></center>
-<p class="line">
-<h1>For out of town guests we recommend the following hotels:</h1>
 
-<h4><li><a href="http://bethesda.hyatt.com" rel="external">Bethesda Hyatt</a></h4>
-
-<h4><li><a href="http://www1.hilton.com/en_US/hi/hotel/DCASSHF-Hilton-Washington-DC-Silver-Spring-Maryland/index.do" rel="external">Silver Spring Hilton</a></h4>
 <p class="line">
-<h1>Should you have any questions <a href="mailto:&#x75;&#x73;&#x40;&#x64;&#x61;&#x6E;&#x69;&#x65;&#x6C;&#x2D;&#x73;&#x61;&#x72;&#x61;&#x2E;&#x63;&#x6F;&#x6D;">feel free to email us</a>.</h1>
+	
+<h1>The following hotels are convenient for out of town guests:</h1>
+
+<h3><li><a href="http://bethesda.hyatt.com" rel="external">Bethesda Hyatt</a></h3>
+<h3><li><a href="http://www1.hilton.com/en_US/hi/hotel/DCASSHF-Hilton-Washington-DC-Silver-Spring-Maryland/index.do" rel="external">Silver Spring Hilton</a></h3>
+
+<p class="line">
+<h1>If you're flying into town:</h1>
+<h3><li>Ronald Reagan National Airport (DCA) is about 12 miles from Chevy Chase.</h3>
+<h3><li>Dulles International Airport (IAD) and Baltimore-Washington Airport (BWI) are each about a 35 minute drive to Chevy Chase.</h3>
+
+<p class="line">
+
+<h5>Should you have any questions <a href="mailto:&#x75;&#x73;&#x40;&#x64;&#x61;&#x6E;&#x69;&#x65;&#x6C;&#x2D;&#x73;&#x61;&#x72;&#x61;&#x2E;&#x63;&#x6F;&#x6D;">feel free to email us</a>.</h5>
 
 <?php
 	$page = 'registry';

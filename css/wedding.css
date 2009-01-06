@@ -8,16 +8,23 @@ h2 {
 	font-size: 2.5em;
 	}
 
-h4 {
+h3 {
 	font-family: Helvetica, Georgia, "Times New Roman", Times, serif;
-	font-size: 2.5em;
+	font-size: 2em;
 	text-indent: 2cm;
 	}
 
+h4 {
+	font-family: Helvetica, Georgia, "Times New Roman", Times, serif;
+	font-size: 2em;
+	text-indent: 2cm;
+	}
 
-/*body {
-	padding: 0 20 0 20;
-	}*/
+h5 {
+	font-family: Helvetica, Georgia, "Times New Roman", Times, serif;
+	font-size: 1em;
+	text-align: center;
+	}
 
 a:link {
 	color: #0063DC;text-decoration:none;
@@ -55,7 +62,7 @@ ul#minitabs a {
 	}
 	
 ul#minitabs a#current {
-	border-color: #ff0084;color: #06F;
+	border-color: #ff0084;color: #000;
 	}
 
 ul#minitabs a:hover {
@@ -72,7 +79,6 @@ ul#minitabs a:hover {
 	margin-left: auto;
 	margin-right: auto;
 }
-
 
 body {
 	color: #222222;
