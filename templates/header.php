@@ -44,7 +44,6 @@ pageTracker._trackPageview();
 	<div id="content">
 	<ul id="minitabs">
 	    <li><a <?php if ($page == 'home') { ?> id="current" <?php } ?>href="../">Daniel & Sara</a></li>
-	    <li><a <?php if ($page == 'wedding') { ?> id="current" <?php } ?>href="../wedding">Wedding</a></li>
-	    <li><a <?php if ($page == 'registry') { ?> id="current" <?php } ?>href="../registry">Registry</a></li>
-	    <!-- <li><a <?php if ($page == 'aboutus') { ?> id="current" <?php } ?>href="../aboutus">about us</a></li> -->
+	    <li><a <?php if ($page == 'wedding') { ?> id="current" <?php } ?>href="../wedding">Wedding Details</a></li>
+	    <li><a <?php if ($page == 'registry') { ?> id="current" <?php } ?>href="../registry">Registry Information</a></li>
 	</ul>
