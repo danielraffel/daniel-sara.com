@@ -1,0 +1,74 @@
+h1 {
+	font-family: Helvetica, Georgia, "Times New Roman", Times, serif;
+	font-size: 3em;
+	}
+
+h2 {
+	font-family: Helvetica, Georgia, "Times New Roman", Times, serif;
+	font-size: 2.5em;
+	}
+
+h4 {
+	font-family: Helvetica, Georgia, "Times New Roman", Times, serif;
+	font-size: 2.5em;
+	text-indent: 2cm;
+	}
+
+
+body {
+	padding: 0 20 0 20;
+	}
+
+a:link {
+	color: #0063DC;text-decoration:none;
+	}
+
+a:visited {
+	color: #1057ae;text-decoration:none;
+	}
+
+a:hover {
+	color: #FFF;background-color:#0063DC;text-decoration:none;
+	}
+
+a:active {
+	color: #FFF;background-color:#0259C4;text-decoration:none;
+	}
+
+ul li {
+	font-family: Helvetica, Georgia, "Times New Roman", Times, serif;
+	}
+
+ul#minitabs {
+	list-style: none;margin: 0;padding: 7px 0;
+	border-bottom: 1px solid #CCC;font-weight: bold;
+	text-align: center;white-space: nowrap;
+	}
+
+ul#minitabs li {
+	display: inline;margin: 0 2px;
+	}
+
+ul#minitabs a {
+	text-decoration: none;padding: 0 0 3px;
+	border-bottom: 4px solid #FFF;color: #999;
+	}
+	
+ul#minitabs a#current {
+	border-color: #ff0084;color: #06F;
+	}
+
+ul#minitabs a:hover {
+	border-color: #ff0084;color: #666; background-color:#fff;
+	}
+	
+.pic.us {
+	border: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #cccccc;
+	display: block;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
