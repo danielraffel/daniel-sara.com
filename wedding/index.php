@@ -13,7 +13,7 @@
 <h1>The following hotels are convenient for out of town guests:</h1>
 
 <h3><li><a href="http://bethesda.hyatt.com" rel="external">Bethesda Hyatt</a></h3>
-<h3><li><a href="http://www1.hilton.com/en_US/hi/hotel/DCASSHF-Hilton-Washington-DC-Silver-Spring-Maryland/index.do" rel="external">Silver Spring Hilton</a></h3>
+<h3><li><a href="http://www.hilton.com/en/hi/groups/personalized/DCASSHF-PRW-20090912" rel="external">Silver Spring Hilton</a></h3>
 
 <p class="line">
 <h1>If you're flying into town:</h1>
