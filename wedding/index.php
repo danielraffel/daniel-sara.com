@@ -18,7 +18,7 @@
 	
 <h1>We have reserved blocks of rooms at the following hotels:</h1>
 
-<h3><li><a href="http://bethesda.hyatt.com" rel="external">Bethesda Hyatt</a> $129/night (enter G-RAFF in the box labeled Group/Corporate #)</h3>
+<h3><li><a href="http://bethesda.hyatt.com" rel="external">Bethesda Hyatt</a> $129/night (enter G-RAFF for the Group/Corporate #)</h3>
 <h3><li><a href="http://www.hilton.com/en/hi/groups/personalized/DCASSHF-PRW-20090912" rel="external">Silver Spring Hilton</a> $99/night</h3>
 	
 <h4>Be sure to book your room by mid-August in order to lock in the group rates. Both hotels are situated right next to <a href="http://www.wmata.com" rel="external">Metro Stations</a>, making it very easy to get downtown to museums, monuments, etc.</h4>
