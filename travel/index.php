@@ -17,8 +17,6 @@ Distance to Woodend: <a href="http://maps.google.com/maps?f=d&source=s_d&saddr=2
 <p>
 If you would like the DC experience, consider staying at the Omni Shoreham, a historical hotel, just off Connecticut Avenue on Calvert Street in Northwest DC.  The Omni is an easy, one block, walk from the Saturday night Welcome Dinner at Lebanese Taverna. If you are interested in taking in the sights of our Nation's Capitol, the Omni is one block away from the Woodley Metro Stop on the Red Line which takes you further downtown to all the museums and government buildings.  The Omni is a very large hotel, with many amenities, and is surrounded by numerous restaurants and coffee shops.</h4>
 
-<p class="line">
-
 <h2><a href="http://bethesda.hyatt.com" rel="external">Bethesda Hyatt</a><br></h2>
 <h4>Group Rate: $129/night (enter G-RAFF for the Group/Corporate #)<p>
 Distance to Woodend: <a href="http://maps.google.com/maps?f=d&source=s_d&saddr=7400+Wisconsin+Ave,+Bethesda,+MD+20814+(One+Bethesda+Metro+Center)&daddr=8940+Jones+mill+rd+chevy+chase&geocode=FVzYUgIdAqJn-yG2jC9Ex9R76Q%3B&view=map&hl=en&mra=pe&mrcr=0&sll=38.993542,-77.080864&sspn=0.039558,0.090981&ie=UTF8&ll=38.993639,-77.08128&spn=0.039558,0.090981&z=14" rel="external">2.7 miles</a> (about 8 minutes by car)
