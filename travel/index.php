@@ -15,13 +15,13 @@
 <h4>Group Rate: $149/night<p>
 Distance to Woodend: <a href="http://maps.google.com/maps?f=d&source=s_d&saddr=2500+Calvert+Street+NW+(at+Connecticut+Ave.),+Washington,+District+of+Columbia+20008&daddr=8940+Jones+mill+rd+chevy+chase&hl=en&view=map&mra=ls&sll=39.003411,-77.067332&sspn=0.019776,0.04549&g=8940+Jones+mill+rd+chevy+chase&ie=UTF8&z=12" rel="external">6.4 miles</a> (about 15 minutes by car)
 <p>
-If you would like the DC experience, consider staying at the Omni Shoreham, a historical hotel, just off Connecticut Avenue on Calvert Street in Northwest DC.  The Omni is an easy, one block, walk from the Saturday night Welcome Dinner at Lebanese Taverna. If you are interested in taking in the sights of our Nation's Capitol, the Omni is one block away from the Woodley Metro Stop on the Red Line which takes you further downtown to all the museums and government buildings.  The Omni is a very large hotel, with many amenities, and is surrounded by numerous restaurants and coffee shops.</h4>
+If you would like the DC experience, consider staying at the Omni Shoreham, a historical hotel, just off Connecticut Avenue on Calvert Street in Northwest DC. If you are interested in taking in the sights of our Nation's Capitol, the Omni is one block away from the Woodley Metro Stop on the Red Line which takes you further downtown to all the museums and government buildings.  The Omni is a very large hotel, with many amenities, and is surrounded by numerous restaurants and coffee shops.</h4>
 
 <h2><a href="http://bethesda.hyatt.com" rel="external">Bethesda Hyatt</a><br></h2>
 <h4>Group Rate: $129/night (enter G-RAFF for the Group/Corporate #)<p>
 Distance to Woodend: <a href="http://maps.google.com/maps?f=d&source=s_d&saddr=7400+Wisconsin+Ave,+Bethesda,+MD+20814+(One+Bethesda+Metro+Center)&daddr=8940+Jones+mill+rd+chevy+chase&geocode=FVzYUgIdAqJn-yG2jC9Ex9R76Q%3B&view=map&hl=en&mra=pe&mrcr=0&sll=38.993542,-77.080864&sspn=0.039558,0.090981&ie=UTF8&ll=38.993639,-77.08128&spn=0.039558,0.090981&z=14" rel="external">2.7 miles</a> (about 8 minutes by car)
 <p>
-Another option is to stay in the Maryland suburb of Bethesda at the Hyatt Regency Bethesda.  This hotel is the closest accommodation to Woodend. It is directly above the Bethesda Metro Stop, also on the Red Line. It is a quick and easy Metro ride to Lebanese Taverna, the site of the Welcome dinner on Saturday night.  Easy access to D.C. attractions like the Smithsonian and the National Zoo are all along the Metro.  The Bethesda Hyatt is a large hotel with many amenities, and is surrounded by numerous restaurants and coffee shops.</h4>
+Another option is to stay in the Maryland suburb of Bethesda at the Hyatt Regency Bethesda.  This hotel is the closest accommodation to Woodend. It is directly above the Bethesda Metro Stop, also on the Red Line.  Easy access to D.C. attractions like the Smithsonian and the National Zoo are all along the Metro.  The Bethesda Hyatt is a large hotel with many amenities, and is surrounded by numerous restaurants and coffee shops.</h4>
 
 <p class="line">
 
