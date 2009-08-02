@@ -26,11 +26,11 @@
 -->
 
 <title>Daniel &#9829; Sara</title>
-<meta name="Keywords" content="Daniel Raffel, Sara Paul, wedding">
-<meta name="Description" content="Daniel Raffel and Sara Paul are getting married on September 13, 2009 outside of Washington, D.C." />
-<meta name="abstract" content="Daniel Raffel and Sara Paul are getting married on September 13, 2009." />
+<meta name="Keywords" content="Sara Paul, wedding">
+<meta name="Description" content="Daniel and Sara are getting married on September 13, 2009 outside of Washington, D.C." />
+<meta name="abstract" content="Daniel and Sara are getting married on September 13, 2009." />
 <meta http-equiv="Content-Language" content="EN" />
-<meta name="author" content="Daniel Raffel" />
+<meta name="author" content="Daniel and Sara" />
 <meta name="distribution" content="Global" />
 <meta name="revisit-after" content="1 days" />
 <meta name="robots" content="FOLLOW,INDEX, NOODP" />
