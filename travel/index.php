@@ -4,8 +4,8 @@
 ?>
 
 	<h1>If you're flying into town:</h1>
-	<h3><li>Ronald Reagan National Airport (DCA) is about 12 miles from Chevy Chase.</h3>
-	<h3><li>Dulles International Airport (IAD) and Baltimore-Washington Airport (BWI) are each about a 35 minute drive to Chevy Chase.</h3>	
+	<h4><li>Ronald Reagan National Airport (DCA) is about 12 miles from Chevy Chase.</h4>
+	<h4><li>Dulles International Airport (IAD) and Baltimore-Washington Airport (BWI) are each about a 35 minute drive to Chevy Chase.</h4>	
 
 <p class="line">
 	
