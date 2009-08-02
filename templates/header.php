@@ -25,8 +25,8 @@
 
 -->
 
-<title>Daniel &#9829; Sara</title>
-<meta name="Keywords" content="Sara Paul, wedding">
+<title>Daniel and Sara's Wedding</title>
+<meta name="Keywords" content="Sara Paul, Daniel, wedding, Chevy Chase, Maryland, Woodend Nature Sanctuary">
 <meta name="Description" content="Daniel and Sara are getting married on September 13, 2009 outside of Washington, D.C." />
 <meta name="abstract" content="Daniel and Sara are getting married on September 13, 2009." />
 <meta http-equiv="Content-Language" content="EN" />
