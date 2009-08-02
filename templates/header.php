@@ -26,6 +26,14 @@
 -->
 
 <title>Daniel &#9829; Sara</title>
+<meta name="Keywords" content="Daniel Raffel, Sara Paul, wedding">
+<meta name="Description" content="Daniel Raffel and Sara Paul are getting married on September 13, 2009 outside of Washington, D.C." />
+<meta name="abstract" content="Daniel Raffel and Sara Paul are getting married on September 13, 2009." />
+<meta http-equiv="Content-Language" content="EN" />
+<meta name="author" content="Daniel Raffel" />
+<meta name="distribution" content="Global" />
+<meta name="revisit-after" content="1 days" />
+<meta name="robots" content="FOLLOW,INDEX, NOODP" />
 
 <link type="text/css" href="../css/wedding.css" rel="stylesheet">
 
@@ -46,6 +54,5 @@ pageTracker._trackPageview();
 	    <li><a <?php if ($page == 'home') { ?> id="current" <?php } ?>href="../">Daniel & Sara</a></li>
 	    <li><a <?php if ($page == 'wedding') { ?> id="current" <?php } ?>href="../wedding">Wedding Details</a></li>
 	    <li><a <?php if ($page == 'travel') { ?> id="current" <?php } ?>href="../travel">Travel Information</a></li>
-	    <!-- ><li><a <?php if ($page == 'faq') { ?> id="current" <?php } ?>href="../faq">FAQ</a></li> -->
 	    <li><a <?php if ($page == 'registry') { ?> id="current" <?php } ?>href="../registry">Registry Information</a></li>
 	</ul>
